@@ -11,7 +11,7 @@ function func(){
 	let love_letter = document.getElementById("loveletter").value;
 
 	
-	if(name != "" && document.getElementById("bid") != ""){
+	if(name != "" && document.getElementById("bid").value != ""){
 
 		
 		let person = {
